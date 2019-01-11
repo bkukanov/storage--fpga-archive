@@ -16,6 +16,7 @@ archive for FPGA related stuff
 - [0xToken-Bitstream - 13 GH/s](https://github.com/MonadNetwork/fpga-archive/releases/download/0xToken-Miner/VCU1525_0xToken_13GHS.bit)
 - [0xToken-Bitstream - 15.09 GH/s](https://github.com/MonadNetwork/fpga-archive/releases/download/0xToken-Miner/VCU1525_0xToken_15_09GHS_V2.bit)
 - [0xToken-Bitstream - 17 GH/s](https://github.com/MonadNetwork/fpga-archive/releases/download/0xToken-Miner/VCU1525_0xToken_17GHS_A.bit)
+- [0xToken-Bitstream - 26 GH/s](https://github.com/MonadNetwork/fpga-archive/releases/download/Bittware_CVP-13_26_GHS/CVP_Token_32.zip)
 
 # Xilinx Tools
 - [Windows - 2018.2](https://github.com/MonadNetwork/fpga-archive/releases/download/Xilinx-Tools/Xilinx_Vivado_Lab_Win_2018.2_0614_1954.tar.gz)
