@@ -1,9 +1,5 @@
 archive for FPGA related stuff
 
-# Digital Crucher
-- [Keccak-Zp-Miner](https://github.com/MonadNetwork/fpga-archive/releases/download/Keccak-zp/ccminer-zen-protocol.fpga.v7.release.tar.gz)
-- [Keccak-Zp-Bitstream](https://github.com/MonadNetwork/fpga-archive/releases/download/Keccak-zp/vcu1525_keccakzp_21_600.bit.tar.gz)
-
 # Whitefire990
 - [0xToken-Miner](https://github.com/MonadNetwork/fpga-archive/releases/download/0xToken-Miner/FXTokenMiner_v1_32.zip)
 - [0xToken-Bitstream - 8.8 GH/s](https://github.com/MonadNetwork/fpga-archive/releases/download/0xToken-Miner/VCU1525_0xToken_8_8GHS.bit)
